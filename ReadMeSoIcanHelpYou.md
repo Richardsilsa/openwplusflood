@@ -2,7 +2,7 @@
 ########################################################################################################
 ############################################disclaimer##################################################
 ########################################################################################################
-this script create lots of files,it cant be dangerous with too high numbers , is your fault if this thing make your system unusable , be smart and dont put too high numbers , or bad things can happen .
+this script create lots of files,it CAN be dangerous with too high numbers , is your fault if this thing make your system unusable , be smart and dont put too high numbers , or bad things can happen .
 
 ####################################how do i use this garbage?##########################################
 the first argument should be how many files it will make , and the second the operation ,
